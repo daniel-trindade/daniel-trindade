@@ -13,3 +13,11 @@ Me chamo Daniel e sou um entusiasta da tecnologia e de tudo que ela tem a oferec
   <img alt="js-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="react-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
+
+## Onde me Encontrar
+<div style=display: inline_block>
+  <a href="https://www.instagram.com/dan.nieltrindade/" > <img alt="html5-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /> </a>
+  <img alt="css-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+  <img alt="js-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="react-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+</div>
